@@ -1,5 +1,6 @@
 ---
-title: TensorFlow学习笔记(1)
+title: 使用TensorFlow深度学习算法实现“反共黑客“图片识别（一）
+​----深度学习简单介绍及TensorFlow环境搭建
 date: 2017-07-16 17:58:47
 tags: [TensorFlow, 深度学习]
 ---
