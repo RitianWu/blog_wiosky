@@ -3,9 +3,10 @@ title: Flask测试驱动开发笔记(1)
 date: 2017-11-30 16:57:36
 tags: [Python Web, Flask, TDD, Docker, Micro-Service]
 ---
-# Part 1 — “简单介绍”
 
 > 本系列文章参考[testdrive.io](https://testdriven.io/part-one-intro/)，结合个人项目实践，对该教程进行的翻译和知识梳理，欢迎读者朋友批评和指导。
+
+# Part 1 — “简单介绍”
 
 ## 1.概述
 
