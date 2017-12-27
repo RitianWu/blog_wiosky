@@ -10,7 +10,7 @@ tags: [Python Web, Flask, TDD, Docker, Micro-Service]
 
 ![](https://www.fiddlerscode.com/uploads/2/2/1/6/22168498/i-recommend-lets-play-tdd-570x320_1_orig.jpg)
 
-开始我们的测试之旅...
+开始我们的测试之旅吧...
 
 ------
 
